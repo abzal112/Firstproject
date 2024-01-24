@@ -4,7 +4,7 @@ hnlhljkhsdfsfd
 fjebfjehkhekgthweopj
 
 try git pull function ---  
- a=10 
+ a=10 +10
 
 try git pull function 
 
