@@ -4,7 +4,11 @@ hnlhljkhsdfsfd
 fjebfjehkhekgthweopj
 
 try git pull function ---  
+<<<<<<< HEAD
  a=10 +10
+=======
+ a=10 *10
+>>>>>>> new
 
 try git pull function 
 
